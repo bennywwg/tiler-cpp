@@ -1,0 +1,9 @@
+/.editorconfig
+/.vscode
+/CMakeCache.txt
+/CMakeFiles
+/Makefile
+/Tiler
+/a.out
+/build
+/cmake_install.cmake

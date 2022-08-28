@@ -1,7 +1,6 @@
 #include "Image.hpp"
 
 #include <tiffio.h>
-#include <tiffio.hxx>
 #include <png.h>
 
 #include <sstream>

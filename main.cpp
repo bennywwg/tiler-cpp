@@ -2,6 +2,7 @@
 #include "Image.hpp"
 #include "Conversion.hpp"
 
+#define FMT_HEADER_ONLY
 #include <fmt/core.h>
 
 #include <iostream>

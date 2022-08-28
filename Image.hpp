@@ -4,6 +4,7 @@
 
 #include <vector>
 #include <array>
+#include <stdexcept>
 
 namespace Tiler {
     template<size_t Size>
